@@ -6,7 +6,7 @@ import JsonStore from './json-store.js';
 const personStore = {
 
   store: new JsonStore('./models/person-store.json', { info: {} }),
-  collection: 'employee',
+  collection: 'employees',
 
   getAppInfo() {
     return this.store.findAll(this.collection);

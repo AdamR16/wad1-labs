@@ -9,7 +9,7 @@ const about = {
     
     const viewData = {
       title: "About the playlist app",
-      employee: personStore.getAppInfo()
+      employees: personStore.getAppInfo()
     };
     
     
