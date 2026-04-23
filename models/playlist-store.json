@@ -1,60 +1,12 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3, 
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
-      "rating": 3, 
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 3, 
-      "songs": []
-    },
-    {
-      "id": "94f1b7ba-86ea-4e0f-ad29-ecf82ce9a1ad",
-      "title": "beethoven symphonies",
-      "date": "2026-03-19T14:24:06.333Z",
-      "songs": []
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "b0b39f49-1e9e-4548-a14e-0ec2755f5607",
+      "title": "oooo",
+      "rating": 5,
+      "songs": [],
+      "date": "2026-04-23T13:17:57.663Z"
     }
   ]
 }
